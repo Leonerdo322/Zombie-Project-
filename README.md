@@ -20,6 +20,6 @@ Requirement:
           - A blunt object must hit 3 times to kill if there are no instant kill strikes
           - A miss means that the person wielding the blunt object is dead! – you are in hand to hand combat, if you miss we assume that you are overwhelmed.
           - People will use guns if they have ammo and they will use blunt objects when the ammo is gone
- Additional content:
+Additional content:
  - Provide a mechanism to get food 
  - increase chance of survival by menipulating randomize chances
