@@ -11,6 +11,7 @@ Requirement:
   - you must generate random number of zombies each day with min of 10 and max of 25 for 10 days
   - if zombies kill everyone the simulation will end
   - ZOMBIES MUST BE KILLED EACH DAY TO MOVE ON
+  - 
         - zombies can be kill with gun shot or blunt object 
           - A gun has a 1 in 5 chance to hit
           - If gun hits it has a 1 in 3 chance of killing instantly o A gun must hit twice to kill if the first shot is not an instant kill
@@ -20,6 +21,7 @@ Requirement:
           - A blunt object must hit 3 times to kill if there are no instant kill strikes
           - A miss means that the person wielding the blunt object is dead! – you are in hand to hand combat, if you miss we assume that you are overwhelmed.
           - People will use guns if they have ammo and they will use blunt objects when the ammo is gone
+          - 
 Additional content:
  - Provide a mechanism to get food 
  - increase chance of survival by menipulating randomize chances
