@@ -8,10 +8,11 @@ Requirement:
   - Have enough food for everyone to eat(HINT: instance variable for people: 25) that can last for 10 days 
   - Everyone MUST eat each day for x amount of days
   - If food runs out, everyone will dies and the simulation end 
- Zombie mechanics:
+Zombie mechanics:
   - you must generate random number of zombies each day with min of 10 and max of 25 for 10 days
   - if zombies kill everyone the simulation will end
-  - zombie will take 2 hits to or be eliminate (HINT: zombies decrement)
- Fighting mechanics:
+  - ZOMBIES MUST BE KILLED EACH DAY TO MOVE ON
+Fighting mechanics:
+  - zombies can be kill with gun shot or blunt object 
   - 
  
